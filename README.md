@@ -6,3 +6,4 @@ user:
 
 feature:
 - fitur-x
+- fitur 2
