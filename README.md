@@ -2,3 +2,4 @@ init
 
 user:
 - aria
+- adi
